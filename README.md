@@ -30,7 +30,7 @@
 
 ## DIAGRAMS
 ### 0 LEVEL Data Flow Diagram
-![alt text]()  
+![alt text](https://github.com/anaitapal054/Ragging_Free_tomorrow/blob/main/Diagrams/Screenshot%202024-06-09%20at%201.06.33%E2%80%AFAM.png)  
 ### 1 LEVEL Data Flow Diagram
 ![alt text]()  
 ### ER DIAGRAM
