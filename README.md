@@ -26,3 +26,12 @@
 * Start the mysql server
 * Go to project directory and run npm start in terminal
 * Open localhost:3000 in browser
+
+
+## DIAGRAMS
+### 0 LEVEL Data Flow Diagram
+![alt text]()  
+### 1 LEVEL Data Flow Diagram
+![alt text]()  
+### ER DIAGRAM
+![alt text]()  
