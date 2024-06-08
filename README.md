@@ -15,6 +15,7 @@
 * Anti Ragging Undertaking submission
 * Volunteer Management
 * Complaint Logging and management
+* Check Complaint Status
 
 ## How To Run
 * Install Node js
