@@ -2,6 +2,7 @@
 
 ## STUFF USED
 * Node.js
+* React.js
 * Mysql
 * Express.js
 * Semantic UI
